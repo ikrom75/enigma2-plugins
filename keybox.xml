@@ -1,13 +1,14 @@
-a<?xml version="1.0"?>
+<?xml version="1.0"?>
 <AndroidAttestation>
 <NumberOfKeyboxes>1</NumberOfKeyboxes>
-<Keybox DeviceID="sw"><Key algorithm="ecdsa"><PrivateKey format="pem">
+<Keybox DeviceID="Telegram@ShareKBx"><Key algorithm="ecdsa"><PrivateKey format="pem">
 -----BEGIN EC PRIVATE KEY-----
 MHcCAQEEIH1T+sYlmaX3o0/ZjUv30ekPjcK6ip9n4kyfwDzzsOcyoAoGCCqGSM49
 AwEHoUQDQgAEITYPWTyRswLvLVGxBjQrlQsbbBsYImFEDpAHSTf7uVQ/n0Jq4hAL
 p4ohCfkY+m/KmDvzVQS8r0BG3sK5vr3c9g==
 -----END EC PRIVATE KEY-----
 </PrivateKey><CertificateChain><NumberOfCertificates>3</NumberOfCertificates><Certificate format="pem">
+<!--https://t.me/ShareKBx-->
 -----BEGIN CERTIFICATE-----
 MIIB9DCCAXqgAwIBAgIRAPHjVknVuF5HyTGciX/k7z4wCgYIKoZIzj0EAwIwOTEM
 MAoGA1UEDAwDVEVFMSkwJwYDVQQFEyA1ZjU3MWNmNjU4ZTg4N2FkYjg5ZWQyZmMw
@@ -213,3 +214,4 @@ wDB5y0USicV3YgYGmi+NZfhA4URSh77Yd6uuJOJENRaNVTzk
 </Certificate></CertificateChain></Key>
 </Keybox>
 </AndroidAttestation>
+<!--https://t.me/ShareKBx-->
