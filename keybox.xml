@@ -1,14 +1,14 @@
-
 <?xml version="1.0"?>
 <AndroidAttestation>
 <NumberOfKeyboxes>1</NumberOfKeyboxes>
-<Keybox DeviceID="sw">
+<Keybox DeviceID="Private Valid Keybox From Group: t.me/yuriiroot">
 <Key algorithm="ecdsa">
 <PrivateKey format="pem">-----BEGIN EC PRIVATE KEY-----
 MHcCAQEEIIFw6fKjh+TU2uFi/UKMyj5jEEwd9i38/2KpPNuNLVJgoAoGCCqGSM49
 AwEHoUQDQgAE637hVErkNxe5MCpLqa2OjdHRFS855uhvO46e0XgmaO/P4Pmz+8s3
 xp97PuQ9UPGazYHEbK+oJcjEvzyZ9TI4ew==
 -----END EC PRIVATE KEY-----
+
 </PrivateKey>
 <CertificateChain>
 <NumberOfCertificates>3</NumberOfCertificates>
@@ -125,6 +125,7 @@ HGL4dnAkd184I8/0anS3FMnvHMTK8/pVsnd+YbS/RFj8CpZvUnbXtX6q0KKyvhsS
 aMY8zJM99BYpzdFmy9zlD82/pnNyIRxnF3sKBbbVKX967J5fVtPILfKatw0X5U52
 smhjGBM5cDeCHedP9Vzyr1sHOH8Ul9ushajaNVQHPEn+WynfhKuORCc=
 -----END RSA PRIVATE KEY-----
+
 </PrivateKey>
 <CertificateChain>
 <NumberOfCertificates>3</NumberOfCertificates>
@@ -228,3 +229,4 @@ wDB5y0USicV3YgYGmi+NZfhA4URSh77Yd6uuJOJENRaNVTzk
 </Key>
 </Keybox>
 </AndroidAttestation>
+
