@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AndroidAttestation>
     <NumberOfKeyboxes>1</NumberOfKeyboxes>
-    <Keybox DeviceID="Public keybox. Join my group: t.me/yuriiroot">
+    <Keybox DeviceID="Public keybox">
         <Key algorithm="ecdsa">
             <PrivateKey format="pem">
                 -----BEGIN EC PRIVATE KEY-----
